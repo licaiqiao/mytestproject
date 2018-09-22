@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyFirstGitProject</string>
+    <string name="hello">Hello MainActivity</string>
+    <string name="hint">Input the message and click the button</string>
+    <string name="send">发送</string>
+
 </resources>
