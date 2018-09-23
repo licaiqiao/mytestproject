@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestServerApp</string>
+    <string name="hint_text">接收客户端信息</string>
+    <string name="start">开启服务</string>
+</resources>
